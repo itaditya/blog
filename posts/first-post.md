@@ -1,7 +1,7 @@
 ---
-title: trial
+title: first post
 ---
 
-# My first trial
+# first post
 
-Let's see if it works.
+This post is just to experiment with github platform.
