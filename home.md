@@ -1,5 +1,5 @@
 ---
-title: [itaditya](https://ghuser.io/itaditya) blog
+title: itaditya blog
 ---
 
 > This is my personal space. All opinions are my own.
