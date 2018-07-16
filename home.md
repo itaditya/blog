@@ -6,4 +6,4 @@ title: itaditya blog
 
 Posts so far -
 
-* [My First Post](/posts/first-post) - 16 July 2018
+* [My First Post](/blog/posts/first-post) - 16 July 2018
