@@ -1,4 +1,4 @@
-# [itaditya](ghuser.io/itaditya) blog
+# [itaditya](https://ghuser.io/itaditya) blog
 
 > This is my personal space. All opinions are my own.
 
